@@ -1,6 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un programador joven y apasionado de Paraguay, con un fuerte deseo de aprender y destacar en el mundo de la programación. <br><br>Con mis 23 años, estoy ansioso por participar en proyectos desafiantes y enriquecedores.<br><br>Mi objetivo es contribuir con mis habilidades y conocimientos para impulsar el éxito de los proyectos en los que <br><br>me involucre.<br><br>Estoy comprometido con el crecimiento profesional y siempre estoy dispuesto a enfrentar nuevos desafíos. <br><br>¡Trabajar juntos será una experiencia emocionante y productiva!
-
+¡Hola! Soy un programador joven y apasionado de Paraguay, con un fuerte deseo de aprender y destacar en el mundo de la programación. <br><br>Con mis 23 años, estoy ansioso por participar en proyectos desafiantes y enriquecedores.<br>Mi objetivo es contribuir con mis habilidades y conocimientos para impulsar el éxito de los proyectos en los que me involucre.<br>Estoy comprometido con el crecimiento profesional y siempre estoy dispuesto a enfrentar nuevos desafíos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/oscar-emilio-rojas-enciso-11a839279) 
