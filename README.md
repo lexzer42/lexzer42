@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un programador joven y apasionado de Paraguay, con un <br><br>fuerte deseo de aprender y destacar en el mundo de la programación. <br><br>Con mis 23 años, estoy ansioso por participar en proyectos desafiantes <br><br>y enriquecedores. Mi objetivo es contribuir con mis habilidades <br><br>y conocimientos para impulsar el éxito de los proyectos en los que <br><br>me involucre. Estoy comprometido con el crecimiento profesional <br><br>y siempre estoy dispuesto a enfrentar nuevos desafíos. <br><br>¡Trabajar juntos será una experiencia emocionante y productiva!
+¡Hola! Soy un programador joven y apasionado de Paraguay, con un fuerte deseo de aprender y destacar en el mundo de la programación. <br><br>Con mis 23 años, estoy ansioso por participar en proyectos desafiantes y enriquecedores.<br><br>Mi objetivo es contribuir con mis habilidades y conocimientos para impulsar el éxito de los proyectos en los que <br><br>me involucre.<br><br>Estoy comprometido con el crecimiento profesional y siempre estoy dispuesto a enfrentar nuevos desafíos. <br><br>¡Trabajar juntos será una experiencia emocionante y productiva!
 
 
 ## 🌐 Socials:
