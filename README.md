@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a young and passionate programmer from Paraguay, with a strong desire to learn and excel in the world of programming.<br><br>At 23 years old, I'm eager to participate in challenging and rewarding projects.<br>My goal is to contribute my skills and knowledge to drive the success of the projects I'm involved in.<br>I'm committed to professional growth and always ready to take on new challenges.
+Web Full Stack Developer, with experience in developing web and mobile applications, using technologies like React, React Native, NodeJS, Express, MongoDB, MySQL, among others.
 
 
 ## 🌐 Socials:
