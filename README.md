@@ -1,3 +1,8 @@
+![text - copia](https://github.com/lexzer42/lexzer42/assets/134535937/c91c0576-e012-4bfa-9fbd-d67015d13e55) 
+![text](https://github.com/lexzer42/lexzer42/assets/134535937/2a3f7b29-faca-4bf5-b99f-66727f2f119a)
+
+
+
 # 💫 About Me:
 Web Full Stack Developer, with experience in developing web and mobile applications, using technologies like React, React Native, NodeJS, Express, MongoDB, MySQL, among others.
 
