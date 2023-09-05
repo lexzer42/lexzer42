@@ -1,4 +1,4 @@
-![text - copia](https://github.com/lexzer42/lexzer42/assets/134535937/c91c0576-e012-4bfa-9fbd-d67015d13e55) 
+![text - copia](https://github.com/lexzer42/lexzer42/assets/134535937/5aca03ec-aed0-48c7-8fd0-f326835433bb)
 ![text](https://github.com/lexzer42/lexzer42/assets/134535937/2a3f7b29-faca-4bf5-b99f-66727f2f119a)
 
 
