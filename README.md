@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Web Full Stack Developer, with experience in developing web and mobile applications, using technologies like React, React Native, NodeJS, Express, MongoDB, MySQL, among others.
+Web Full Stack Developer, with experience in developing web and mobile applications.
 
 
 ## 🌐 Socials:
