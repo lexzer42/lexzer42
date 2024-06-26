@@ -147,7 +147,6 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 [![Lexzer GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lexzer42&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Lexzer42/github-readme-stats#gh-dark-mode-only)
 [![Lexzer GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lexzer42&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lexzer42/github-readme-stats#gh-light-mode-only)
 
-![Language Stats](https://wakatime.com/share/@6a9f9b57-2aa5-4a34-b557-7d8fda7b6ba1/ac858754-46d1-4997-9b0f-46e9cf5a12d1.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
