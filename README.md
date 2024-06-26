@@ -156,7 +156,7 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 
 # Spotify Playing 🎶🎧
 
-[![Spotify](https://novatorem-one-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/frk6s2999uuhb734ng1zyfo81)
+[![Spotify](https://novatorem-lexzer42s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/frk6s2999uuhb734ng1zyfo81)
 
 
 
