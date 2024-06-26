@@ -149,7 +149,8 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 
 ![Language Stats](https://wakatime.com/share/@6a9f9b57-2aa5-4a34-b557-7d8fda7b6ba1/ac858754-46d1-4997-9b0f-46e9cf5a12d1.svg)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
