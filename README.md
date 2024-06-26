@@ -152,4 +152,5 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
