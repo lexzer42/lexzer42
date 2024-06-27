@@ -163,7 +163,7 @@ HTML     0 secs          -------------------------   00.05 %
 
 <!--END_SECTION:waka-->
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
