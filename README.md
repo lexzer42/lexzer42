@@ -149,9 +149,12 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 # Spotify Playing 🎶🎧
