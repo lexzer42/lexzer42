@@ -150,6 +150,17 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 25 June 2024 - To: 26 June 2024
+
+Total Time: 41 mins
+
+Gosu     20 mins         >>>>>>>>>>>>>------------   50.96 %
+Groovy   10 mins         >>>>>>>------------------   26.35 %
+SQL      9 mins          >>>>>>-------------------   22.64 %
+HTML     0 secs          -------------------------   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
