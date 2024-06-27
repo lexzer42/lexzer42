@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: lexzer42/lexzer42@main
+      - uses: lexzer42/jamesgeorge007@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
