@@ -165,8 +165,8 @@ HTML     0 secs          -------------------------   00.05 %
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+
 
 # Spotify Playing 🎶🎧
 
