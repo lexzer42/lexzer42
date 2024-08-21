@@ -146,20 +146,20 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 June 2024 - To: 18 August 2024
+From: 25 June 2024 - To: 19 August 2024
 
-Total Time: 131 hrs 34 mins
+Total Time: 137 hrs
 
-TypeScript       47 hrs 36 mins  >>>>>>>>>----------------   35.93 %
-SQL              19 hrs 53 mins  >>>>---------------------   15.02 %
-JavaScript       13 hrs 32 mins  >>>----------------------   10.23 %
-Gosu             11 hrs 11 mins  >>-----------------------   08.44 %
-YAML             7 hrs 34 mins   >------------------------   05.72 %
-HTML             6 hrs 45 mins   >------------------------   05.10 %
-Python           6 hrs 8 mins    >------------------------   04.64 %
-Groovy           5 hrs 52 mins   >------------------------   04.43 %
-Docker           3 hrs 3 mins    >------------------------   02.31 %
-JSON             2 hrs 59 mins   >------------------------   02.26 %
+TypeScript       47 hrs 41 mins  >>>>>>>>>----------------   34.59 %
+SQL              19 hrs 53 mins  >>>>---------------------   14.43 %
+JavaScript       13 hrs 38 mins  >>-----------------------   09.90 %
+Gosu             11 hrs 11 mins  >>-----------------------   08.11 %
+YAML             7 hrs 34 mins   >------------------------   05.50 %
+Astro            7 hrs 6 mins    >------------------------   05.16 %
+HTML             6 hrs 45 mins   >------------------------   04.90 %
+Python           6 hrs 8 mins    >------------------------   04.46 %
+Groovy           5 hrs 52 mins   >------------------------   04.26 %
+JSON             3 hrs 5 mins    >------------------------   02.24 %
 ```
 
 <!--END_SECTION:waka-->
