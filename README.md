@@ -140,7 +140,7 @@ Web Full Stack Developer, with experience in developing web and mobile applicati
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 June 2024 - To: 12 October 2024
+From: 25 June 2024 - To: 13 October 2024
 
 Total Time: 250 hrs 58 mins
 
