@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-Web Full Stack Developer, with experience in developing web and mobile applications.
+Full Stack Developer, with experience in developing web and mobile applications.
 
 
 ## 📝 Blog's I use
