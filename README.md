@@ -140,17 +140,17 @@ Full Stack Developer, with experience in developing web and mobile applications.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 June 2024 - To: 24 March 2025
+From: 25 June 2024 - To: 25 March 2025
 
-Total Time: 641 hrs 13 mins
+Total Time: 645 hrs 17 mins
 
-TypeScript        376 hrs 36 mins >>>>>>>>>>>>>>-----------   57.93 %
-SQL               55 hrs 31 mins  >>-----------------------   08.54 %
-Gosu              41 hrs 17 mins  >>-----------------------   06.35 %
-JavaScript        28 hrs 40 mins  >------------------------   04.41 %
-Groovy            28 hrs 19 mins  >------------------------   04.36 %
-HTML              13 hrs 1 min    >------------------------   02.00 %
-Astro             10 hrs 37 mins  -------------------------   01.63 %
+TypeScript        377 hrs 41 mins >>>>>>>>>>>>>>-----------   57.74 %
+SQL               55 hrs 51 mins  >>-----------------------   08.54 %
+Gosu              42 hrs 21 mins  >>-----------------------   06.47 %
+Groovy            29 hrs 46 mins  >------------------------   04.55 %
+JavaScript        28 hrs 40 mins  >------------------------   04.38 %
+HTML              13 hrs 1 min    -------------------------   01.99 %
+Astro             10 hrs 37 mins  -------------------------   01.62 %
 Other             8 hrs 52 mins   -------------------------   01.36 %
 ```
 
