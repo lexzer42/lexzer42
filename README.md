@@ -156,11 +156,9 @@ Astro             10 hrs 37 mins        -------------------------   01.44 %
 
 # Spotify Playing 🎶🎧
 
-[![Spotify](https://novatorem-lexzer42s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/frk6s2999uuhb734ng1zyfo81)
-
 <div align="center">
 
-[![Last.fm](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark&border_color=ffffff)](https://open.spotify.com/user/frk6s2999uuhb734ng1zyfo81)
+[![Spotify](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark&border_color=ffffff)]
 
 </div>
 
