@@ -134,9 +134,6 @@ Full Stack Developer, with experience in developing web and mobile applications.
 
 # 📊 GitHub Stats:
 
-[![Lexzer GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lexzer42&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lexzer42/github-readme-stats#gh-light-mode-only)
-
-
 <!--START_SECTION:waka-->
 
 ```rust
