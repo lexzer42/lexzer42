@@ -155,6 +155,6 @@ Astro             10 hrs 37 mins        -------------------------   01.44 %
 
 
 &nbsp;<div align="center">
-  [![Last.fm](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark&border_color=ffffff)](https://lexzer42-b740d9b2660c.herokuapp.com/redirect)
+  [![Last.fm](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark)](https://lexzer42-b740d9b2660c.herokuapp.com/redirect)
 </div>
 
