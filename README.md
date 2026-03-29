@@ -154,12 +154,7 @@ Astro             10 hrs 37 mins        -------------------------   01.44 %
 <!--END_SECTION:activity-->
 
 
-# Spotify Playing 🎶🎧
-
-<div align="center">
-
-![Spotify](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark&border_color=ffffff)
-
+&nbsp;<div align="center">
+  [![Last.fm](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark&border_color=ffffff)](https://lexzer42-b740d9b2660c.herokuapp.com/redirect)
 </div>
-
 
