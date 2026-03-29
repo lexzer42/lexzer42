@@ -158,7 +158,7 @@ Astro             10 hrs 37 mins        -------------------------   01.44 %
 
 <div align="center">
 
-[![Spotify](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark&border_color=ffffff)]
+![Spotify](https://lexzer42-b740d9b2660c.herokuapp.com/api/orchestrator?background_type=blur_dark&border_color=ffffff)
 
 </div>
 
