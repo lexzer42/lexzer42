@@ -132,9 +132,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 June 2024 - To: 21 July 2026
+From: 25 June 2024 - To: 23 July 2026
 
-Total Time: 757 hrs 2 mins
+Total Time: 757 hrs 4 mins
 
 TypeScript        420 hrs 37 mins       >>>>>>>>>>>>>>-----------   54.80 %
 SQL               59 hrs 20 mins        >>-----------------------   07.73 %
@@ -143,7 +143,7 @@ JavaScript        35 hrs 7 mins         >------------------------   04.58 %
 Python            35 hrs                >------------------------   04.56 %
 Groovy            29 hrs 50 mins        >------------------------   03.89 %
 HTML              13 hrs 20 mins        -------------------------   01.74 %
-Astro             10 hrs 37 mins        -------------------------   01.38 %
+Markdown          10 hrs 39 mins        -------------------------   01.39 %
 ```
 
 <!--END_SECTION:waka-->
